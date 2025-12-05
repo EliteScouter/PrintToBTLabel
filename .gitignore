@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test/example PDFs (users should use their own)
+*.pdf
+*.PDF
+
+# Logs
+*.log
+
+# Local config (if any)
+config.local.json
+.env
+

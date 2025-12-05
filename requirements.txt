@@ -1,0 +1,6 @@
+pyserial>=3.5
+Pillow>=10.0.0
+PyMuPDF>=1.23.0
+customtkinter>=5.2.0
+pyinstaller>=6.0.0
+
