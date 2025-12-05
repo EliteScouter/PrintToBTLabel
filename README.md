@@ -39,7 +39,7 @@ Download `LabelPrinter.exe` from the [Releases](../../releases) page - no Python
 1. Install Python 3.8 or higher
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/PrintToBTLabel.git
+   git clone https://github.com/elitescouter/PrintToBTLabel.git
    cd PrintToBTLabel
    ```
 3. Install dependencies:

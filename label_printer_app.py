@@ -14,7 +14,7 @@ from io import BytesIO
 from bt_printer import BluetoothPrinter, list_available_ports
 
 __version__ = "1.0.0"
-__author__ = "PrintToBTLabel Contributors"
+__author__ = "EliteScouter"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -928,11 +928,13 @@ class LabelPrinterApp(ctk.CTk):
         about_text = f"""Bluetooth Label Printer
 Version {__version__}
 
+Created by EliteScouter
+
 A simple tool to print shipping labels to Bluetooth thermal printers.
 
 Supports MVGGES, TSC, Xprinter, and most TSPL-compatible label printers.
 
-GitHub: github.com/elitescouter/PrintToBTLabel
+GitHub: https://github.com/elitescouter/PrintToBTLabel
 
 MIT License"""
         
